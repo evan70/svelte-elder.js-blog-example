@@ -11,7 +11,7 @@
 </svelte:head>
 
 <div class="content">
-  <h1>My Blog</h1>
+  <h1>My blogindex.svelte Blog</h1>
   <ul>
     {#each blogPost as blog}
       <li class="list__item">

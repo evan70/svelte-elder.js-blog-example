@@ -1,4 +1,4 @@
 
 <footer>
-  copyright &copy; 2021
+  copyright &copy; 2022
 </footer>

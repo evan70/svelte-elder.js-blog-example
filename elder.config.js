@@ -1,6 +1,6 @@
 module.exports = {
-  origin: '', // TODO: update this.
-  lang: 'en',
+  origin: '/', // TODO: update this.
+  lang: 'sk',
   srcDir: 'src',
   distDir: 'public',
   rootDir: process.cwd(),
@@ -45,7 +45,7 @@ module.exports = {
     },
     'elderjs-plugin-blog-pagination': {
       routes: ['blog'], // change to your blog route same as plugin-markdown route
-      postPerPage: 5, // change to your preferred post per apge
+      postPerPage: 2, // change to your preferred post per apge
       indexTemplate: 'BlogIndex', // change to your own Index.svelte template but without `.svelte`
     },
     '@elderjs/plugin-browser-reload': {
